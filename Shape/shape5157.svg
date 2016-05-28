@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="19px" height="16px"
+xml:space="preserve">
+<g id="2111" transform="matrix(1, 0, 0, 1, 10.15, 12.05)">
+<pattern 
+id="PatternID_2093" patternUnits="userSpaceOnUse" overflow="visible" width="41" height="34" viewBox="0 0 41 34" patternTransform="matrix(0.463409, 0, 0, 0.463242, -10.15, -12.05)"
+>
+<image 
+width="41" height="34"
+xlink:href="data:image/png;base64,
+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"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2093) " d="M8.85,3.7L-10.15 3.7L-10.15 -12.05L8.85 -12.05L8.85 3.7" />
+</g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="11px" height="9px"
+xml:space="preserve">
+<g id="2204" transform="matrix(1, 0, 0, 1, 9.35, 2.4)">
+<pattern 
+id="PatternID_2189" patternUnits="userSpaceOnUse" overflow="visible" width="18" height="28" viewBox="0 0 18 28" patternTransform="matrix(-0.100708, -0.193771, -0.193771, 0.100708, 0.3, 3.15)"
+>
+<image 
+width="18" height="28"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABIAAAAcCAYAAABsxO8nAAADlklEQVR4nJ2VS28bVRTHf2dmqJu0HqfKuJQ4oo5TVU0XtoPTiGQVEBICIZEdEhKCBUgs009AvgF8hFZCQmKVj+AiJDd1LZtKTayQhxOSNvghnJlgaseey8Lx+JG0oP539zx+99xzz8wVztF8IvGpEhYRCXtGpQqiScFVqnDispLJZI56c2QQMncn8b2ILJ23QZepqgqWHqYz98+AEolE4IKQFE3ir4IMAH9IpTN3PdCrIKbfj2n6ASiVytQbjX7YSSucymZ3DYALGssiXchkZIJPPv6ISCTCSaMOgOM4OI7D5tY2yV9+xXacdrChLQF3JZFIBHy6VDuQ21O3+Pabr7Esy9u12WyytvaUxmk1xVKJH3/6uXO8QiqdmdDe0FjsPcaHH7zvQWq1Gnt7e30QgKvBILenbgEgIuG56enrBnRB78RjHmRnZ5tKpfLSRt+ITLC2nm9XZWgLhiAjHef4+BiWZVGr1ahUKmxubVMql9u+UIhg0OKizwdAMNg9uiYSNkRY6C15aGiYYvFPUquPSK2me2pIE7Qsvvj8MwACpul5lGJBGyzZMAxqtRpP1/IoRdJ1WXBdFoDlUrnM5ta2FzseGuvmDYLK5TLVahXbcRAhmUo/fnDqejA/O7NcKpe5MRkZyFLhMxUVCjuDpm64q3J/7B94606fRKQLMv3+lwI8SXfeAK/xAB7I12N8HXmgzjV3NB4aQ7kq/H9BhlKqKtKepcPnzzk42OfatbdotVr0/Y9OdTVoYds2jm1j23YXBJKD9ixt/L7BRZ+Pg4N9BAUMVKTUSLlUIr++BoDTD+qqXm94DRy9MsKzw2J4fnbmO9clqSk1gibxgHn+pWgiJDuLF/W65wiYfgL+ywDLmkYSXVYuDQ8RMP1EozEAjmu1nopaKocuXkW9mro5ybPDIgC6rvNmcBSAaCzOkye/efFKqYKhXDcnug7Ake30gQzD4O3xsT5bNBrDNE2azSZ/1/45tUrBSGWzu3MziZxoEj9yjjmyHQb7MGpZxKJxxkIhTNMk/WiVyl89s6lUwQAQTVaAOMDGVoGpm5NcvjTsxTXqdfL5dfL5dRzHxnEciqXef5XKCcDc9PR1DC3XmSdd1xm9MuL1pFcv6nWKpQpHzrFna9KMe8/Ru3cSX2oi985k/oeUIplKP37P+0QepjP3XaW+eg3QMpzz0s7OxmOa0pc1kcUzWbRfWRQroklBnbTupbLZXYB/AQOFedvSR+HkAAAAAElFTkSuQmCC"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2189) " d="M-6.95,2.45L-1.5 -0.35L0.3 3.15L-5.15 5.95L-6.95 2.45" />
+<pattern 
+id="PatternID_2190" patternUnits="userSpaceOnUse" overflow="visible" width="12" height="26" viewBox="0 0 12 26" patternTransform="matrix(-0.151428, -0.157394, -0.157394, 0.151428, 1.35, -0.5)"
+>
+<image 
+width="12" height="26"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAaCAYAAACD+r1hAAABpklEQVR4nM2UzU4TURiGn29aU4OZFgSMtJiIfxQWmDDECCvuAELCniU7uQPxDrwBkxpvQHdeASHoLIwLE1elUaxOAx06TDNDZw4LaJ0DU23ixndzkvd7n3O+85MjXGjJslZigw1BhklIoZpGTGXHtt8BCMDSk4XnwDZ/1vbO3scXsrgw/0wM4+VfwuerxfFW5k6p+F5EricLedNkfHwMgCAMk6WnWRG95/W1Ve7fmwLAaTR4VXnTq4nIsJEMz86UefTwAXNzj5meLnNzZITZmbLWlgYU8iammQcgl8sxOjpGIW9qQDZtc7VajVbrOHXjV4B2278Y26mAkWb6vp8aTgWCICCKosGBUD/3wVr6jwDHcdjfr9LpdPoC2j2EQcDPep2G4zA0dKM3SV+gqyiKejcdBkH/lgbRvwFeypO47GnA4ZGLd/I74J34HB65GpBVSlVF5G7X+PzlK6XbtwD4Xv+lhZVS1cxkqdgUkdWEidvycFseSikdgK3Mt4Mfn0rFiSqwfPkzSEzSVLC5+8F+LV3TsqzCNYOKkVgNIFbq7WnMhm3bLsAZ8MObQ8Jfyo4AAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2190) " d="M-4.55,1.55L-0.45 -2.4L1.35 -0.5L-2.75 3.45L-4.55 1.55" />
+<pattern 
+id="PatternID_2191" patternUnits="userSpaceOnUse" overflow="visible" width="12" height="26" viewBox="0 0 12 26" patternTransform="matrix(0.0270233, -0.216751, -0.216751, -0.0270233, -3.7, 4.7)"
+>
+<image 
+width="12" height="26"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAaCAYAAACD+r1hAAABpklEQVR4nM2UzU4TURiGn29aU4OZFgSMtJiIfxQWmDDECCvuAELCniU7uQPxDrwBkxpvQHdeASHoLIwLE1elUaxOAx06TDNDZw4LaJ0DU23ixndzkvd7n3O+85MjXGjJslZigw1BhklIoZpGTGXHtt8BCMDSk4XnwDZ/1vbO3scXsrgw/0wM4+VfwuerxfFW5k6p+F5EricLedNkfHwMgCAMk6WnWRG95/W1Ve7fmwLAaTR4VXnTq4nIsJEMz86UefTwAXNzj5meLnNzZITZmbLWlgYU8iammQcgl8sxOjpGIW9qQDZtc7VajVbrOHXjV4B2278Y26mAkWb6vp8aTgWCICCKosGBUD/3wVr6jwDHcdjfr9LpdPoC2j2EQcDPep2G4zA0dKM3SV+gqyiKejcdBkH/lgbRvwFeypO47GnA4ZGLd/I74J34HB65GpBVSlVF5G7X+PzlK6XbtwD4Xv+lhZVS1cxkqdgUkdWEidvycFseSikdgK3Mt4Mfn0rFiSqwfPkzSEzSVLC5+8F+LV3TsqzCNYOKkVgNIFbq7WnMhm3bLsAZ8MObQ8Jfyo4AAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2191) " d="M-9.35,4L-9.05 1.4L-3.4 2.1L-3.7 4.7L-9.35 4" />
+</g>
+</svg>

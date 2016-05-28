@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="73px" height="99px"
+xml:space="preserve">
+<g id="935" transform="matrix(1, 0, 0, 1, 0, 0)">
+<radialGradient
+id="RadialGradID_1183" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0464172, 0, 0, 0.0464172, 39.7, 50)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FFE53C;stop-opacity:1" />
+<stop  offset="0.32549"  style="stop-color:#FFCD6A;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#E0864A;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1183) " d="M40.75,47.3L36.8 33.1L38.15 47.8L26.1 44.9L37.6 52.15L30.1 54.75L37.2 54.65L25.65 59.65L37.6 57.8L34.15 71L40.75 57.35Q44.3 74.3 44.55 73.6L45.8 56.1L57.3 59.55L52.45 55.95Q47.5 52.35 46.95 52.15Q46.4 51.95 49.8 49.7L53.25 47.45L43.45 49.95L50.7 34.25L40.75 47.3M48.5,45.5L57.5 43.25L65 46.75L56.25 52.25L63.5 55L72.75 71.25L58.5 68L49 60.75L45.25 98.25L41 66L37.5 75.5L22.5 87.5L27.25 78.25L26.75 71.75L31.5 62L5.25 64.5L18.5 57.25L10.75 55L21.15 53.05L31.45 51.25L26 50L0 28.5L21 38L32.25 44.25L35.25 43.25L29.75 25L31.5 11.5L38.25 23.25L38.75 29.75L39.75 22.75L42.25 31L43 40.5L47 29.25L69 0L57.75 35.5L48.5 45.5" />
+<path style="fill:#FFF5D0;fill-opacity:1" d="M50.7,34.25L43.45 49.95L53.25 47.45L49.8 49.7Q46.4 51.95 46.95 52.15Q47.5 52.35 52.45 55.95L57.3 59.55L45.8 56.1L44.55 73.6Q44.3 74.3 40.75 57.35L34.15 71L37.6 57.8L25.65 59.65L37.2 54.65L30.1 54.75L37.6 52.15L26.1 44.9L38.15 47.8L36.8 33.1L40.75 47.3L50.7 34.25" />
+</g>
+</svg>

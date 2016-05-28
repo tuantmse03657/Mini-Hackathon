@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="101px" height="53px"
+xml:space="preserve">
+<g id="30" transform="matrix(1, 0, 0, 1, 1.3, -1.25)">
+<linearGradient
+id="LinearGradID_6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0329437, 0.0143433, -0.015686, -0.036026, 63.2, 27.65)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#F8F8F8;stop-opacity:0.2" />
+<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.701961" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_6) " d="M99.5,40.6Q98.55 46.4 92.1 50.1Q90.15 51.15 86.2 52.35L86 52.4Q65.55 56.7 45.65 50.8Q34.5 47.45 23.5 40.85Q7.8 31.5 -1.3 20.65Q8.95 16.5 10.5 18.35L13.85 19.8L22.05 23.05Q31.95 27 38.95 28.75L39.9 29.1Q56.3 33.35 65.75 29.35Q68.5 28.15 69.45 26.05Q70.05 24.55 69.5 22.7L69.5 22.05Q68.25 19.3 64.75 15.8L59.2 10.2L54.75 6.2L65.25 10.35Q99.6 25.8 99.55 39L99.5 40.6M70.95,18.45L70.85 18.55L70.95 18.55L70.95 18.45M44,1.25Q49.85 3.1 52.55 4.7Q43.5 2.9 44 1.25M79.5,45.55L79.85 45.15L79.55 44.6L79.5 45.55" />
+</g>
+</svg>

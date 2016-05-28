@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="152px" height="53px"
+xml:space="preserve">
+<g id="187" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#0A3580;fill-opacity:1" d="M151.4,17.15L151.4 35.8Q151.05 52.15 133.9 52.15L17.5 52.15Q0.4 52.15 0 35.8L0 35.75L0 35.05L0 17.15Q0 6 7.4 2.1Q11.4 0 17.5 0L133.9 0Q140 0 144 2.1Q151.4 6 151.4 17.15M133.9,2.55L17.5 2.55Q2.6 2.55 2.6 17.15L2.6 35.05L2.6 35.75Q3 49.65 17.5 49.65L133.9 49.65L134.1 49.65Q148.45 49.55 148.85 35.75L148.85 17.15Q148.85 2.55 133.9 2.55" />
+<linearGradient
+id="LinearGradID_431" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000473022, 0.022934, -0.389099, 0.000473022, -86.65, 27.65)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#48C2EB;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#005F94;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_431) " d="M134.45,7.55Q144.05 10 144.05 21.5L144.05 31.3L144.05 36.3Q143.95 38.35 141.55 41.35Q139.2 44.3 133.9 44.65L74.9 44.8L74.9 44.85L23 44.95Q10.4 44.95 8.1 35.75L7.75 34.05L7.45 31.3L7.45 21.5Q7.45 7.3 23 7.3L133.6 7.3L134.45 7.55" />
+<linearGradient
+id="LinearGradID_432" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00335693, 0.0298615, -0.11911, 0.0128937, 82.95, 23.45)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.00392157" style="stop-color:#7EECF0;stop-opacity:1" />
+<stop  offset="0.423529" style="stop-color:#26AEDB;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#11539C;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_432) " d="M133.6,7.3L23 7.3Q7.45 7.3 7.45 21.5L7.45 31.3L7.75 34.05L8.1 35.75Q10.4 44.95 23 44.95L74.9 44.85L74.9 44.8L133.9 44.65Q139.2 44.3 141.55 41.35Q143.95 38.35 144.05 36.3L144.05 31.3L144.05 21.5Q144.05 10 134.45 7.55L133.6 7.3M148.85,17.15L148.85 35.75Q148.45 49.55 134.1 49.65L133.9 49.65L17.5 49.65Q3 49.65 2.6 35.75L2.6 35.05L2.6 17.15Q2.6 2.55 17.5 2.55L133.9 2.55Q148.85 2.55 148.85 17.15" />
+</g>
+</svg>

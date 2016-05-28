@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="8px" height="10px"
+xml:space="preserve">
+<g id="1638" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#3F94BB;fill-opacity:0.701961" d="M5.35,9.95L4.15 9.7Q4.9 7.75 4.25 6.1L6.95 0.7L7.1 0.6L8 0L8 0.6L7.05 3.2L6.8 4.15L5.85 3.5Q5.05 4.95 6.2 6.3Q5.7 8.1 5.35 9.95M2.95,6.55L2.95 6.6L2.55 8.9L2.15 8.6L0.9 7.35L1 6.4L1.2 6.45Q1.65 5.45 1.4 4.65L2.15 4.05L2.25 4L2.35 4.2L2.5 4.55L3.15 5.85L2.95 6.55" />
+<path style="fill:#7CBFD0;fill-opacity:1" d="M6.2,6.3Q5.05 4.95 5.85 3.5L6.8 4.15L6.2 6.3" />
+<path style="fill:#9CEAF6;fill-opacity:0.501961" d="M2.55,3.75Q4.6 2.15 6.95 0.7L4.25 6.1L4.15 5.9L4.25 5.8Q4.5 4.95 3.85 4.7L3.45 5.05L3.15 5.85L2.5 4.55L2.35 4.2L2.25 4L2.5 3.8L2.55 4.15L2.55 3.75M0.9,7.35Q0.25 6.5 0 5.5L0.15 5.4L0.35 5.7L0.95 6.35L1 6.4L0.9 7.35" />
+<path style="fill:#81C3D1;fill-opacity:1" d="M1.4,4.65Q1.65 5.45 1.2 6.45L1 6.4L0.95 6.35L0.35 5.7L0.15 5.4L1.4 4.65" />
+<path style="fill:#D0FCFC;fill-opacity:0.901961" d="M2.55,4.15L2.5 3.8L2.55 3.75L2.55 4.15" />
+<path style="fill:#CBFFFF;fill-opacity:0.74902" d="M3.15,5.85L3.45 5.05L3.85 4.7Q4.5 4.95 4.25 5.8L4.15 5.9L4.25 6.1Q4.9 7.75 4.15 9.7Q3.3 9.4 2.55 8.9L2.95 6.6L2.95 6.55L3.15 5.85" />
+</g>
+</svg>

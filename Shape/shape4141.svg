@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="10px" height="15px"
+xml:space="preserve">
+<g id="1572" transform="matrix(1, 0, 0, 1, 17.45, 2.5)">
+<pattern 
+id="PatternID_1827" patternUnits="userSpaceOnUse" overflow="visible" width="37" height="56" viewBox="0 0 37 56" patternTransform="matrix(0.251755, 0, 0, 0.252411, -17.45, -2.5)"
+>
+<image 
+width="37" height="56"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACUAAAA4CAYAAAB61jFGAAADt0lEQVR4nM2ZUW7aShSG/9/hSgiQmh2QHZSuoCwhlaKEPsVLoDtwd8BdQekbiZDqrqDuCkp3QFZwqURoHsD/fTAQbM/Yjhmq/k/xDD7zZc7MOWfGhGPpHq+ATg8x+qB6EM8NP4uAOORg9dNkg85gps0u1mcBSL/6S4igzYjvf391DqX7zlsIUX0DCDhYftw9ei6gjhYRaNL+lLjeFVSM/tE2SB9qBcDfMlM7yesBrqConhs7yYy7gTJv+3qmJq3Xf5f7AEDsO4Jy5D4AIHoNN4YcuE+agYoAr+dp2uzu4kMtW9Nm92ggAFAc8Gb1AY2172F9FmDT9msbWzfqv3ugXarh1dODB+ASxLCOId21bkEELqAO1diuh3NNm11ePT2UguyqAGkI8NI1EAB4+0S68QpnS3etW03aP6DOInnHIVAmmXtgPEs67INo0v4EeGOQ7rZ+eoR5GgpIoMgL0y5M1s0LaqRaYgbqLI6eHzv5mZB3YqC8PF49PUBaALCUIA6jdUUlEZ0aQrwA4jCFM212sXGXbK3SZnb4WFgO6651C3jjkwIB4M0yxVGSkE8Th1Iy1PbFUHJQ5pYryjZYoTRpvXaS/cvEeJ5tss8U4Z8Q5VnCLNtkhxL76WfNQfRB9CHlDNWV6ZRsLPK2oSAdnzz6vF5+BwBNOgs3SApNreaZytZIQrQHuscrQBd/HgpKQzEeP3e1xyCPh5IWvFl9NnXl3Le9F0gPylV40OcodnFk68nPlJSpq+IRr/Er+dNh3PKW1aCSQ8BBFBeSYr6yFFa6fZHG+3/UoLT71mdBOhu+YEFLcw4e3wHbwAtG1uDb2ARFpjLuYxqC9JMB9urboeK925PYY1kz0rjsLFB+QiaDA4uWtKMwdxs3WH6E0mVuMiLHZUOmoShDUOTl/sBqqtGlBfjom81nAA7iXXUo0Zw+1g0faplDgRBYF212h2lj3XEFUBtLTtMQMqwRIeL7x39txnmNX9D2sCrNsy6uBvWPJdGS5+adFA/zbdkRlqPExQqqAAGGcliT9n/V6qh4VDWGVT19F0B1vu2u+eyjaMbB45uqg7xUppAQlb+WSdiOlYfyyqBk/XzhSoaZWpZUleYayKVyUMk2NkTi/Q9Wfx5qq8jYKi2KsrsrmaGoyPxzS8R3LAuUzUUFbnUoI5R9XdHQ5l4Fh1HTLpN/zPV2VdmhYsO6Ii8Qtytl+mNUchXUkaUn5E1S+p5CJZWnJVDa6i5HqgGl8PB77ylU+mFbd+0v++95UlhU1LnS/0XjeiaZdk9sAAAAAElFTkSuQmCC"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_1827) " d="M-8.15,-2.5L-8.15 11.65L-17.45 11.65L-17.45 -2.5L-8.15 -2.5" />
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="14px" height="11px"
+xml:space="preserve">
+<g id="2082" transform="matrix(1, 0, 0, 1, 0, 0)">
+<pattern 
+id="PatternID_2063" patternUnits="userSpaceOnUse" overflow="visible" width="28" height="22" viewBox="0 0 28 22" patternTransform="matrix(0.483932, 0, 0, 0.484085, 0, 0)"
+>
+<image 
+width="28" height="22"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABwAAAAWCAYAAADTlvzyAAAD8ElEQVR4nK2Wz1LbVhTGv2P5j2wssEMgcg2u5AjGk7aD03ZaNpmadibjZMVMF9BJZ0r7AuUNyiM0T1Bnly67Cm1JgOmGRZMomTSBIECQggU4GOoEW3Kk24UrjZ0CIQxnpXP06f706RxJl9AUl4eyAxzDOADpv5LOgMLkjDqLUwpyD67msj+AaOIgEWNMZ8DYaYAJAK7ksj8R0ZhbFKJtEKJtMC0Lz3d2m8GqTRj7bVp9cGLglVz2eyL60S3kv7gE+d0eT7Be3MSf9x9hw9hyobsAJm7NqNdPAuT6JPEmEcUA4IML/Rh4P9MiaBeiyPSlAQAbxhaIiCeivCKJw4okzmu6sfpWDq8OXWRu8t21LxEKBQ8Vm6aFO3/MQV9b92qMsULdz41PTd3dOw7Q17KgZR0pDoWCGBkZwVfXvoYky407JhoLvLLVy0PZgeMAOUUSc0QkAfDu/Fz32QPF7Z0JtMW60NXVjYsffgSe5/H3s2ewbTtGDKOKJBqabhw5UFxaFlViGCUi3rLqeLZexMLiCoRoG+Kx9hZxpKMT/iDv5b2pFJT+fjx6+BC2bfNENKxIoqTpxi+HApd0YzMti5PEkHGdWlYd2soaNopbkFM98Ps5AEDtxR4cx0YwFAH5Gt0QBAEff/IpStvbKJW2QUTZo6DUnORz2c8ImCCinFsLBgP4/NJgy6vC+QPo6O5FKBxtWWz69hSm79wG0Hhn634u9/owcc2Jphurmm7c6JNElQGDRBSzbQfayhpKz8tIJRPw+zkwx0G1Uobj2OAjgne9nE4jFo9j/sljEJHoc5y8pCRvLi8XzQOBbizqxoKmG9fPS6IOIEtEsd29Cv5a0BDvaPd6Wzf3Ua3sgHwcAqEwACCReAeSnMb8k8ewbVv0OU4+LYtzS7qxeSiwyfEDSUkWOMepgSjnum3uLXMcmPv/oG5WEeAj8HEc4vE4lP5+aE+fwjRNkRhG07I4uaQbm0cCAWB5uWgu6sbseUmcAZAjoljlxcv/ubXrJqqVHfiDIfiDPARBQObCe1Dv3W1MMENG040bbwQ2uV2VlGSBHCdDRBnXLQAkE+caIsa8SeYjAsLhMHp6U1Dv3wMRSYok7h4b6LrVdOPnPkkEa/SW3zC2WgYKaPS29nIP4WgMZzo7US6XYRhFABh8K6Abi7oxq0jiHIBhIuJ39ypYWy+iN5nwvsWO/QrmfgXhaAymZbqTy58ICDQecVoWJ8EgElGmWq1hQVtBKplAJBL2oKUtA5O//o5arQbGmEpvWPdY0fxPDQYDOHsm7p0r7ZRhWfVGwtjwqQABbz9UIKLsQecZY4VbM+q3pwZ0I5/LfkPAuAt+fYfwL5CUuym8WvhrAAAAAElFTkSuQmCC"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2063) " d="M0,0L13.55 0L13.55 10.65L0 10.65L0 0" />
+</g>
+</svg>

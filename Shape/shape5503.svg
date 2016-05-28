@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="12px" height="16px"
+xml:space="preserve">
+<g id="2235" transform="matrix(1, 0, 0, 1, 0, 0)">
+<pattern 
+id="PatternID_2221" patternUnits="userSpaceOnUse" overflow="visible" width="24" height="32" viewBox="0 0 24 32" patternTransform="matrix(0.5, 0, 0, 0.5, 0, 0)"
+>
+<image 
+width="24" height="32"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAAD6ElEQVR4nI2W3U4bVxCAv9mFxbExXkA4Bm8aI0UpUolihJSU3JQ+QbnsXekb8Aj0Dcgb+A1Cn6BOL2KKRO1KUYsEFUbYxU2KvGDMj8F7erHetQ222bk6u7Mz38yZH61wR5LpVy9BXxZh5a4OkaxybjfLhe0/7un6iHiH8cXFWNgxNkRk9UErpbKlfO7bwIBk+tVLRN8UkVTQyJRShQutsVzd2TkdCGhFXvCcz8zNYVpJbh2HaDwOwG2jwaVtY5fKnBwc0Ly5CQwZiqiRNYQUwDc/rhKfneWm0eBof7/9kWEQjceJxuNMz39FKZ/n5KCIiKTDjpGtwkI/gB5NWBkRMZ+m0zx/s+S+1HXqZ2c0m817BpquY1oWjXqdS9tGRBJj0084Oz563wugeVcTn011KaKm2S8oAFKvXzPZslFKrY0vLsZ6Avo5CEejAwEA1sICRiSMiJiPHGO9J0ApVQSwjytdimHDIBQODwQMGQZPFtzr10TWEgtLT+8BgCxAeXf3noNIgCxMy2I0PuUCe8yQhmpuAFzYNsV8vks5+kAdPJmZnwfcWtzV6bVK+d+xhLWMSOpzsUji2TNCrcg1TeP66oqbRmMgYCQSwS6Vub2+Do0+ThZrlZK/SrQWeh3g5uqK7XebXcZBrgkg/uVz1+Gda9IBziqlw2gimRaRuevzc9dgdtaNLhTi9OQEpdRAgBGJ8N/+3yjHSYUTVua8UjptZwA0kTWllA2wl9uicXnpGwdp2SHDwLSStJz6tfABlXzuEMU6uFe1t7XlGz80dJ6YSRcgtFd916CVC7m3KJX1sqhXqwA8ikQYGh5+GGBZ3uClptNvvrsHALiFVT+LXDuL2MREoCy8DayJs9oTUMnnDpVSGegevqAz4V+TaCuJhaWnPXdRE7cWncOn6zqjsZ77rBtgWf5ZV6zovT46r5ROowkrJSJpgC9evADcTqm16jJIap8+0ahfAOqq7zZ1lGwC/LO767fsSCj04AIECJvjrZOk+gKOCx9+9ubic7Hovw/SsrrhdpyIpPsCXHFbtvxXu9hR0wzUsp4MBIhoBejOAGB8amqg00a9HgzgOE4R3G7qXB1R00TT+pteVG3A/esYDBDJeudiodCli01O9nFe5dK2vcfBgM6h+/OXbFcWYxMTPWtR/G3bP4tSmZ5z0ClDycfZYaV/7zSb5tHHj0RMk7GpKTRNQ9N1Lmo1P/K997/60SulMuXC1lsZ5NyT1q9lVkT8Ho0lEsRTKc7Pa1xUbU7L5baBUtm61lip7uycBgJ0QDLedA+Q9dLvH37yHgIDPJlJf/2DJrKKyHI7YGUryDiwUcnnDju//x+5VI3Owpg76wAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2221) " d="M0,0L12 0L12 16L0 16L0 0" />
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="196px" height="42px"
+xml:space="preserve">
+<g id="876" transform="matrix(1, 0, 0, 1, 26.15, -2.3)">
+<linearGradient
+id="LinearGradID_1131" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00140381, 0.0183868, -0.0733643, 0.0052948, 30.55, 25.05)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.00392157" style="stop-color:#D9F07E;stop-opacity:1" />
+<stop  offset="0.423529" style="stop-color:#86DB26;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#448307;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1131) " d="M165.3,34.45L165.3 31.35L165.3 15.5L165.3 15.1Q165.1 8.4 159.4 6.9L158.9 6.75L-12.05 6.75Q-21.3 6.75 -21.55 15.1L-21.55 15.5L-21.55 31.35L-21.4 33.05L-21.2 34.1Q-19.75 39.75 -12.05 39.75L159.05 39.55Q162.3 39.35 163.75 37.55Q165.25 35.7 165.3 34.45M168.25,34.1Q168 42.55 159.15 42.65L-15.4 42.65Q-24.3 42.65 -24.55 34.1L-24.55 33.7L-24.55 12.85Q-24.55 3.85 -15.4 3.85L159.05 3.85Q168.25 3.85 168.25 12.85L168.25 34.1" />
+<path style="fill:#2C5500;fill-opacity:1" d="M169.8,12.85L169.8 34.1Q169.6 44.15 159.05 44.15L-15.4 44.15Q-25.9 44.15 -26.15 34.1L-26.15 33.7L-26.15 12.85Q-26.15 6 -21.6 3.55Q-19.15 2.3 -15.4 2.3L159.05 2.3Q162.8 2.3 165.25 3.55Q169.8 6 169.8 12.85M168.25,12.85Q168.25 3.85 159.05 3.85L-15.4 3.85Q-24.55 3.85 -24.55 12.85L-24.55 33.7L-24.55 34.1Q-24.3 42.65 -15.4 42.65L159.15 42.65Q168 42.55 168.25 34.1L168.25 12.85" />
+<linearGradient
+id="LinearGradID_1132" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000427246, 0.0209808, -0.238892, 0.000289917, -79.35, 23.2)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#AEEB48;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#669400;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1132) " d="M163.75,37.55Q162.3 39.35 159.05 39.55L-12.05 39.75Q-19.75 39.75 -21.2 34.1L-21.4 33.05L-21.55 31.35L-21.55 15.5L-21.55 15.1Q-21.3 6.75 -12.05 6.75L158.9 6.75L159.4 6.9Q165.1 8.4 165.3 15.1L165.3 15.5L165.3 31.35L165.3 34.45Q165.25 35.7 163.75 37.55" />
+</g>
+</svg>

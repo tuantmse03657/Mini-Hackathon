@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="13px" height="20px"
+xml:space="preserve">
+<g id="1201" transform="matrix(1, 0, 0, 1, -0.35, -0.55)">
+<pattern 
+id="PatternID_1506" patternUnits="userSpaceOnUse" overflow="visible" width="25" height="39" viewBox="0 0 25 39" patternTransform="matrix(0.5, 0, 0, 0.5, 0.35, 0.55)"
+>
+<image 
+width="25" height="39"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABkAAAAnCAYAAAD6meO+AAAD5klEQVR4nK2XzU8bRxiHnxnb6wUb2yS0pRJSOQCK1AM+9lYOqIqUVvWxh0rl2N74D8KfkGOP5J5KiRqiHqjk5JZTnVZq2pAQaIGCneCvtb22d3d6WNafu4Axv9PM+J15/H7MxwoC9FWcrxVkgPmBn3LKYXOrzouguYMSfoMPVm7d3d75d8PrF2oNWrbTZ6MUOeVwb6vO/ZEgv37x6bIt5UOBmB80PCgbFGoNXuaLvKuZvbBN02B9G8pBkFAfQMisEGLWzzCha3w8FWNhJokeCZM3GtiOQgjSYY3vFyOYO22enwv5dmH2FyGGPfBkOw67ZYPjmkkoJJmbniIsJcW6iRDoQnB7SWP+VYtHvpAHK7futmznm2g4NLw60LJt/ipWh/KSmIgyE5sgX62jFAhBejFCadCj0CokX5dPf/xkeiqV0DVfwN/FKo5Svn9AC4e4Man3gm4vaWRftdj3bGQ0xlrTcgLD9LZcCwR4iusa8zeTvUP3ejsSWAH4IDYxNLlQNzFt+1yAp7npKW6erSEE6TuTfNeBCEEKoGkNL1ZoNC8F8LTwYarTFpL1DsRrVJqtvgkNy6Lt9Cf6IumRMB8lJl2I681yH2RQRssaCeBpLjXVaQtJ5lyIfUGygxTXNWLRiNfth/jl5KpKTUQBN2R9kN7zaFzNxLuV+mWczyWQg+HEj6N4tLuplcO8BErgHufXpXBI4h1RQrqQLLjh6s2LFgqsiUtJj4QBUIq0NA03XNDvjSbHg8TPKkwIUnIbykq5oMNyrWukRfxnX1LhbiTSXisL7u3XKz3kf/SPIiFISQDlsAlwWKn1GYyTF2+vwNk+2arzQin2AN68717VEwGX2Kjq/aubAC/zxc5A/KxCrg3iWC5k97RCxXQ35rjJH4I8MdlXatib60j+YGY3Af7Mn3YGktHxvemDPDZ4qhTZarPNb0cF4HqS71ejGwDP/zmhYrZIRjWk8H3NXh3iedOyHZ69PQKuVmVGsx0MAVCO+wjYPa3w0x9vuOHzHrtI1tn7QCn2fAO+0+ZkSSMlBJ9Vm22EgkldY5QL+aBo0GhbKEU28NwwDTa8UyD33ztKI96cpuU+RIQgFwjZhrJyyCjlXmq/HxU4LteCzPsBbYtaNyfZc+tzp83JYphjIckoBe9rDSzbIaFHkTK44g5KVcqNJkpRemzww4XH7Fad+47NmufRYckgd5CnVPcPn2G2OChWve5DCPic89OdSZaFJOs9awFi0QiziVjnFrQch9f5Ek3LRilKjkX6icn+SLtsFZJ6nHUh3A17rhSZnw33g+hKW3kVktEYa0KQEcL9KuisrdgTsO4BAP4HyjWbZUPaDVUAAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_1506) " d="M0.35,0.55L12.85 0.55L12.85 20.05L0.35 20.05L0.35 0.55" />
+</g>
+</svg>

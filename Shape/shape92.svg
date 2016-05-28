@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="18px" height="14px"
+xml:space="preserve">
+<g id="43" transform="matrix(1, 0, 0, 1, 0.05, 2)">
+<pattern 
+id="PatternID_10" patternUnits="userSpaceOnUse" overflow="visible" width="36" height="28" viewBox="0 0 36 28" patternTransform="matrix(0.5, 0, 0, 0.5, -0.05, -2)"
+>
+<image 
+width="36" height="28"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACQAAAAcCAYAAAAJKR1YAAAD60lEQVR4nM2Wz28bRRTHPzO7tuu0SUzEIRKiuFUjJDjUqCpCKj9SgVC5pQfOmAvncuKa/gflxtH8BYQToaqEIVRItFHaY5UQbSmgViLUdRx7d+fH47B14vz0ljbA92DJM2/nfWbem/cG/ke68Oapd9R/DQHw/rnqaa3Dhve2Hv5bTi+ef/W01r6qYRala/1x41wjca6O91euXo9uHypQBiF1BTNKUQW9y0agLiKR7cksQPhadfKlIAyrN1d++/5pnH/43slxKNYEPY1QA2oZxP5ZISIY5xDk0rXF1UcAYaFYrAtMA+cBPvvkzHgxKNdWooc1k8o0isowGCVSgSwMavNnuIz3eJHmtwu/fN0fC4tHgspUdbx24d3jD5VSFQDnPNaAUjlXzmv3WCKC8Z7UObS19cG58NzZyWmUqjgvhEG2cLdnn8jBk8qLkGahmv3mp+ju4FwwNlr+4sFal3IpZKRcAKC9nh4qlPUe6300v7ByceecFpEWQGLc5mAcHw6M856uMaTO4b2d2ctGA7cAknQLyHs5FJietXgRRFz96vXo9t5AiiZAOnBCz1oiQuKy9cVLY35h9cv9bLVAC8A6f2gwWycjzfkfVz4+yF4rn4WsN5A3IyOF3A4VEAaKQqg5eiRE76gAAzCR7fo982ZQe7aOcilgYqyUG6ovYz2D6RdvwbS8tzPXFqNHw9bQ2tmo/6cftiD4Z4+AjZ7ZBmN9Pw38pf2SeKcUwAdvTwnAyycmGDtapNNJubPc2hZGgF7scAfcQKWgVAoIQkVQgEJRI8js/A8rl/NuSgFceOvUkjVSU16TJo5evPvGVY6V8Y93rPXurp2aLDxxun0TXuQWSho379z7PDfQG69Uv/NOpgGeHz/KaLlE5ViZMNCMlksY54hTS6vTGwjDwTI2+6bTS4hTi3i5cmP5109zAZ2dOv6V0mrmxOQEJyYnAEiMpd2NiVObG2IvJcZyf20dL4JJkupSdP/uQfYaQKns6ve1tr7BH3+16cTpU8EAlAohE2MjAATF4uwwew0gIlF/oJca2t3kqSB2KgyynFNQzQVkjWkCGOfoJukzhYGtciIQ5QJaiu7fFZHoz0cbdGMz7JuhSoxlrb3BWnuD9kZMq9PLJrxvDPt2s1IraMSpnX3Q6nCsXEQpRTEMtjmB7PZ42V2LEmMRL5iBnui8x7nMVrzM5Xm3b5bkMyefG9fhaKSUqigFgdbonY0ph7wI3sk2aPEy5916fXH14dDWsc3j61MvnBYVzCmlqpBVXp3jvSwCgrDz4ESkiUjjxvK9fZ8bBwL1dXbqxY9AzaCo9eHySkSaCpqIm/t5+fdc/WtQfwMChB9Psk3FgQAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_10) " d="M-0.05,-2L17.95 -2L17.95 12L-0.05 12L-0.05 -2" />
+</g>
+</svg>

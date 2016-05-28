@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="12px" height="16px"
+xml:space="preserve">
+<g id="2244" transform="matrix(1, 0, 0, 1, 0, 0)">
+<pattern 
+id="PatternID_2230" patternUnits="userSpaceOnUse" overflow="visible" width="24" height="32" viewBox="0 0 24 32" patternTransform="matrix(0.5, 0, 0, 0.5, 0, 0)"
+>
+<image 
+width="24" height="32"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAAEDUlEQVR4nJ2WzU4bVxSAv2N7MHYAw5iEv5RMAUtEhYS2arcFCUVVNkXqA5RH4BHoG6RvwKpSmyzohlQtEs6iURf9catIaQNUgxRTbMBgDDbYM3O7sMf4ZzCmZ3XPvWfOd86995w7QoPE5h499Cn/rIKFxjWQuBJrdXPjhz+a17xF3MHY/HwkYGlPRGTxuo+UUvE38edzbQNic48eivKviojRbmRKqYQVKM3+s76ebQmoRJ5wnY98MENY1/FrWtWolC9QKhTIpdJkk0kcy2obEghYHUsiGACjH39EOKo3GWnhEFo4RDiq0x8bJ/36L7LJXURkJmBpceD9qwD+qDGxIiK9kZFh9HeNVtkC4PP76R4YoFQocJHLISKDUSPGobn5wtPe3Zqw3hx5Kxl6ME1kZLiiqaWx+fmIJ+BGXhvkzv1JtFAnItLrt7RlT4BSygQ4P8ndGODXNO7cnyw7Elky5h7fawIAcYDTdOrGAIDugQHCeh8AHYrFJoAS+wlAqXBO9m3yf0H6JyYqI7XUuObPmNupqDExKyJGPpPh1u1+AsHgjQBaOEQulcYuFjt1Y9zMmFvVVuIDcFDLAI5l8e+fr26cQSTSw4dznxDq7KQr3LVYlwFAxtza0Y3xGRGZtItFAM+CcyWgaXT19tIbjTI19R4PpqYYeucur17+jGNbxmBscmVv83W2mgFASXxLSqnjMnAHu1TydN4ZDjMai9E/OMitnh4OT3LYtk0wFGJ8eqpiJdWzqALMjbUdgWUob9WRueMJOM/nKZydVXXHcdg/PgZgrAq4bPV1hfZ3/PlXSqm4m0UpX/CEHO7t1empwwy2bTM+PUV3Xx8iYsw8/vyzJgBAsfIeOJZF5oosihcXnJ2c1M1lKvrdiXEAhHJN+Bs/PjY3s1FjwhCRGbt4gW4YnhClFF2Ry/bjKIUe6QFg8/cEIjI5GJtc8exFRZFlaF18+Vx9azkrlLfz8qBBKRaaMmjMAqBneMgT0hEM0lFTlF2hEB2axtutbXJHRwDnLbqprAKcptNXXtlCPl+vX1wAcNtt4wrjSsCb+Np3bl3kMxlPm+L5eZ1uOw4AwVCoHKJPZlq+B4rylT1NpdsCnHpc65YAwZeAqzNwKhE3ykmN/TUZOCaUb9NV51Ar7hnsJ3fL3zsq0RJQEl/cHWeT178VjuOwn0xysLvrTrUGmBtrO0qpFYCDze22svjx62+qY6V83oVWK1agtKSUMh3LwvzpJbmU99N6enDAL98+q0avHLWS+P7pC/G0bpDKr2VcRHrduWB3N2FdZ+jeKKcHhxyaZk3kxH1FWfh1/Wm2LUANZMWtbgCfCKHKnb/0zvJva8++dNW2AVXQ7KdfCLIoIrMBv59gMIhyVEJEVmsdu/IfkEa3o9lsXMsAAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2230) " d="M0,0L12 0L12 16L0 16L0 0" />
+</g>
+</svg>

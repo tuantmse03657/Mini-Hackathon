@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="15px" height="14px"
+xml:space="preserve">
+<g id="2294" transform="matrix(1, 0, 0, 1, 18.35, 18.45)">
+<pattern 
+id="PatternID_2279" patternUnits="userSpaceOnUse" overflow="visible" width="29" height="27" viewBox="0 0 29 27" patternTransform="matrix(0.5, 0, 0, 0.5, -18.35, -18.45)"
+>
+<image 
+width="29" height="27"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB0AAAAbCAYAAACAyoQSAAAD9ElEQVR4nLWWTW8bVRSG3zMf/ognnrEpiWkmYRKVtkJBRF0Ud9UAEgIkhNl1mR3skn9AfkJ+grtm43YFUiu5YhOQihIJVQKh2BBb4ITaM87YY8945rBwJsR2HDdp+0oj3Zl7z3nO0Zx7zyVcQsvXP/n2+vznGghmACoWHq0/uYg9XQa6OJ8tvbPwkaFMzQIAmHmHmTYLj9cfvDbo0kKW41ENN4zPBr4zc1FCPPfdo6+t8+zFy0C1pL7W8zsaAITZAgARGQG8e+mkrolyxDCbld1XB1V1kwg512vhzfSNgTki0vzAW7Xsv3JaUl/Vpq/umEfV2ktDzWZlV0vqawF7WjyaQiyaHJiPRZNQFR1Hrb+NAL1v1KRePp31paDA/9n2eh2k1aWReVmKI60uou08h9dr5bRp3TCblQcvBTWbld2Uqm+6vRYyV947c40giEirS3C6DXS9o5WUqqNhVZ5IAGDM3X5fEIXciNWRt7XXeHp+JQryxADnZm7BsqsAsGlk7uQlY/6DdYFo66zFrEgbRiI7EgyBcyCshg4nKSIriEc1OF0TkIOcRMAmALy79AUisgIAcDoNHDZ+Q71Z0ohQHHVDiEgJzM3cgjqtT4QCgDI1A6drgoBViYi0dHLxBAgA8VgKC29lkbmyjLpVgt0+OI44gYicQDyaemFYKFGIhAFrUujsLEVkZWyRXFSu1zoe8YrwSjxOkO+7sOzK8RvtCADgdBuvFfjH/mP4gQcAYCAvMKMY/rNxcj37UsC6tYdnew/7VQuAA+TL+9v3JTDKfuDBbtcGDu/T+uffX+F0G1AVHRE5AVXRIYqRkXV2uwbXa8FuH8CyK/ADD8xsgqnAhGK5sn0fAMiYv/2lQEJBic/g2sLHY6O22zVUD345ifo8MaMM5gKDCuXK9kiDJ6DflIlgnN6r4+R6NpyOeVIHdasEt9evTA54i5nz5erPZ7a0UCIAaEl9hwhrvu9N3H+iGEEsmoQyNQtlahZpdRECibCdAwC4CRJ2xvXRAajZrPypTetGxzVXVEWHLMXPBZ+WIIjHAcygaVdjQJAbbmUjNuGAWt4GM5ul6o/wffeFoaGUqVlcm+/XhEDIG3r27kToXuOpxQGvdj3bfLb3EHa7Ns5mrOKxFDJvLPeTID6ziQBD/dQ8qta06bnvGfxpo1nS6lYJftDPelKBhYrICRw2fgcRZVTlamH4qjICDcFpcTbPshDzA/dmyzmM1ZslWHYFbec5nG4DTscEsw/Xa408/T1/EJ5AHbNZ/WGYce4V1MjceZukYANEOSIYL5TqKTGjWNrf/vBC0IEA9OxdQeg3bmZeAUg7dr1CFI6HoVwo7f/01fD3/wAz17lsshgGdAAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2279) " d="M-18.35,-18.45L-3.85 -18.45L-3.85 -4.95L-18.35 -4.95L-18.35 -18.45" />
+</g>
+</svg>

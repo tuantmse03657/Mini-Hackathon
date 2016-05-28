@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="54px" height="40px"
+xml:space="preserve">
+<g id="3105" transform="matrix(1, 0, 0, 1, 27.1, 19.6)">
+<linearGradient
+id="LinearGradID_2907" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00111389, 0.00791931, -0.00195313, 0.000274658, -2.3, -11.4)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#918680;stop-opacity:0.65098" />
+<stop  offset="0.517647" style="stop-color:#F5FDD8;stop-opacity:0.65098" />
+<stop  offset="0.992157" style="stop-color:#918680;stop-opacity:0.65098" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2907) " d="M-0.65,-4.4L-2.3 -6.55L-5.25 -18.05L-2.35 -14.6L-0.4 -6.8L-0.65 -4.4" />
+<linearGradient
+id="LinearGradID_2908" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0112, 0.00643921, -0.00158691, 0.00276184, -15.75, -7.2)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#918680;stop-opacity:0.65098" />
+<stop  offset="0.517647" style="stop-color:#F5FDD8;stop-opacity:0.65098" />
+<stop  offset="0.992157" style="stop-color:#918680;stop-opacity:0.65098" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2908) " d="M-5.25,-2.3L-9.55 -2.4L-27.1 -10L-19.9 -10.25L-7.95 -5L-5.25 -2.3" />
+<linearGradient
+id="LinearGradID_2909" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0113831, 0.00653076, -0.00160217, -0.00273132, 14.6, -11.15)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#918680;stop-opacity:0.65098" />
+<stop  offset="0.517647" style="stop-color:#F5FDD8;stop-opacity:0.65098" />
+<stop  offset="0.992157" style="stop-color:#918680;stop-opacity:0.65098" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2909) " d="M7.2,-8.2L22.9 -19.6L19.4 -13.25L8.7 -5.5L4.9 -4.4L7.2 -8.2" />
+<linearGradient
+id="LinearGradID_2910" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00987244, -0.00430298, 0.00102234, -0.00239563, 16.75, 5.7)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#918680;stop-opacity:0.65098" />
+<stop  offset="0.517647" style="stop-color:#F5FDD8;stop-opacity:0.65098" />
+<stop  offset="0.992157" style="stop-color:#918680;stop-opacity:0.65098" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2910) " d="M20.45,7.8L10.1 4.55L7.55 2.6L11.15 2.25L26.35 7.05L20.45 7.8" />
+<linearGradient
+id="LinearGradID_2911" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00132751, -0.00746155, 0.00178528, -0.000335693, 2.85, 11.85)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#918680;stop-opacity:0.65098" />
+<stop  offset="0.517647" style="stop-color:#F5FDD8;stop-opacity:0.65098" />
+<stop  offset="0.992157" style="stop-color:#918680;stop-opacity:0.65098" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2911) " d="M1.15,5.3L2.75 7.3L5.85 18L3.1 14.9L0.95 7.5L1.15 5.3" />
+<linearGradient
+id="LinearGradID_2912" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0107574, -0.0078125, 0.00190735, 0.00257874, -12.05, 10.85)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#918680;stop-opacity:0.65098" />
+<stop  offset="0.517647" style="stop-color:#F5FDD8;stop-opacity:0.65098" />
+<stop  offset="0.992157" style="stop-color:#918680;stop-opacity:0.65098" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2912) " d="M-19.45,20.25L-16.65 13.45L-6.65 4.5L-3 3.05L-4.9 7.1L-19.45 20.25" />
+</g>
+</svg>

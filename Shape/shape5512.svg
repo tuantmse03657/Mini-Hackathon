@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="15px" height="16px"
+xml:space="preserve">
+<g id="2238" transform="matrix(1, 0, 0, 1, 0, -0.05)">
+<pattern 
+id="PatternID_2224" patternUnits="userSpaceOnUse" overflow="visible" width="30" height="31" viewBox="0 0 30 31" patternTransform="matrix(0.5, 0, 0, 0.5, 0, 0.05)"
+>
+<image 
+width="30" height="31"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAD9UlEQVR4nLXWz08UZxjA8e8zOwM4ZNkFRRQqbME0mLZxA8bAqUOippemHHuD/gf8B93ebC9ujz2V3j1gD17UOLbGgkaL2AYaXdydaq1Uym42WX4M7NPDsARTdndA+5x2Z54nn7w/5nlf4S3FuYvfxmxWJxHi248SKLMI7qmB9ye/On++sDtf3gooqykRmaiW09J2OJ9/+tSdv3Ej/WTavQUQeRP0k6+/+bQBf0pEPq6VJyJNPR9+0L+c88aboq2JlWfZKweGk6OffdfSceyiYUbi9XJNyyIaD9JePn6cbO1MzJr7BXsHz8XMZsN958yZZKTBClVjWkFeS0dH8MAgZewHTZwdOS3Wpts1MBAaBWhsagIgdiyARSQZesSJsyOnI4a6ze3t8ZbO46Fq7GiUWFsbh5qbASj89XLnXagR9w6ei0UMdUUkfrS/PxTa0Nj4Ggqw7OUAUNV8KFiszbSIxC3bprn9SCh4Y32dF7kc62trAPhrayzevRfA4IZd41GAw319IdODsKPRnfX99do1VgtBDzEgXXeNe4ecMRGJA0SPh1tbCKa6vbMTgN9//Ilnc48AKJd1YnHGvVUXFiEJ0BSL0dBsh0INw6DjxAnKvs/c1as8m3uEquYVJhZn3O8B6u9qxUGgLeQ0G4bB8USC0j8r3Lt8mdVCAUXT6pupxfvXd/p1TTgxPNIjkDQsi9ae7lBwe2cnz+fm+O3adVQ1KzCe2e7Pu6MmHEEnQEJvKtu2eXjlB5Y9j7LqFL45ntk1yt1R9XRKDI/0mJA1LIv3LlygXqdazRfw7txhc30dVZ1U35xYrIJCjRGbqpNIMNowaPb2bcq+D6qpzLT7Zc2CavDJIecLRBzLtjl6qnan2o2q6mQYFPZomb1DzhgiKYCugYGaxVsbPn/MzFTQ2cy0+3kY9D9w75AzZohMArT399dtj97MDH6phKpm1TedsOhrcN+wc6mCxru7607x0vwCpVevUNX8VllGa22kqnDfsHNJCO5M8e5uugbrT/FyJgOAQDp79+bD/aAAcnLI+QgRdzfa0tZGqVhk0/f3LHp+/wF5z0NVs5lp9939ohCMOAVgHzlC1+AAdjTKIdumvLW1Z8FqvkDe84I/ZareLOuFiYgD0LJ98pSKRUrFYtWCPx88CH6oupm77pWDwjuby7LrnzxL8wusbZ+pmyLjB0UBDFWdBSi+eFEzcSXn8ffCAgCKprM/38y9GQxpgLznsZLz9kxaml/YmWJVndUNM/UmKGwfEn1Dzi8ikoSgcVS+4eUnGZYzGfxSqYLmt8riHOTz2RNODI/0RFSnKvheUVadKpcl9TbQHRiCKyzm5rghjFZ2+v8BVuJfoZucQvICTf4AAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_2224) " d="M0,0.05L15 0.05L15 15.55L0 15.55L0 0.05" />
+</g>
+</svg>

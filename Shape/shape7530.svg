@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="900px" height="104px"
+xml:space="preserve">
+<g id="3083" transform="matrix(1, 0, 0, 1, 0, 0)">
+<linearGradient
+id="LinearGradID_2887" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.196503, 0, 0, 0.0634766, 663.95, 52)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#000000;stop-opacity:0.501961" />
+<stop  offset="1" style="stop-color:#000000;stop-opacity:0" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2887) " d="M449,0L899.95 0L899.95 104L449 104L449 0" />
+<linearGradient
+id="LinearGradID_2888" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.203247, 0, 0, -0.0634766, 182.5, 52)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#000000;stop-opacity:0.501961" />
+<stop  offset="1" style="stop-color:#000000;stop-opacity:0" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2888) " d="M449,104L0 104L0 0L449 0L449 104" />
+</g>
+</svg>
